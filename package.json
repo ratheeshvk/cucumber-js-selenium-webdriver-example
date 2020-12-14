@@ -19,5 +19,8 @@
     "grunt-exec": "^3.0.0",
     "grunt-env": "^0.4.4",
     "sanitize-filename": "^1.6.1"
+  },
+  "dependencies": {
+    "chromedriver": "^87.0.4"
   }
 }
